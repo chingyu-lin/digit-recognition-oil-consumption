@@ -1,10 +1,8 @@
-# digit-recognition-oil-consumption
+# Optimizer Digit Recognition Project
 
-This is the directory of the project - Optimizer - digit recognition.
+It project is part of the course Eleven consulting supercase - MSc Data Science for Business - HEC Paris and Ecole Polytechnique
 
-It is part of the course Eleven consulting supercase - MSc Data Science for Business - HEC Paris and Ecole Polytechnique
-
-# Team members / contribution:
+# Team members and contribution
 
 Ching-yu Lin / Project management, Data curation/labelling, Model architecture
 
@@ -22,10 +20,12 @@ This project was conducted between 2019-Sept-18 to 2019-Sept-24.
 
 # Final Result
 
-We tried two different digit recognition pipeline.
+We tried two different digit recognition pipelines:
 
 1. Cropping method
 2. End-to-end solution
+
+with various data augmentation/ creation techniques.
 
 We acheived 64.99% accuracy on digital digit testset and 59.45% on analog testset.
 
