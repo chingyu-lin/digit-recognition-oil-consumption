@@ -1,6 +1,6 @@
 # Optimizer Digit Recognition Project
 
-It project is part of the course Eleven consulting supercase - MSc Data Science for Business - HEC Paris and Ecole Polytechnique
+This project is part of the course Eleven consulting supercase - MSc Data Science for Business - HEC Paris and Ecole Polytechnique
 
 # Team members and contribution
 
