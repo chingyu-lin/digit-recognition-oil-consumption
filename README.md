@@ -10,7 +10,7 @@ Fernado Perez / End-to-end model training and fine-tuning
 
 Jorgen Lund / Data augmentation and generation and End-to-end model training
 
-Jiahao Wand / Digit cropping for both analog and digital digits
+Jiahao Wang / Digit cropping for both analog and digital digits
 
 Akshay Sundar / Digit cropping for digital digits, digit recognition model training
 
