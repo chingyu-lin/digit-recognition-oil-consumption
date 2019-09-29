@@ -22,7 +22,7 @@ We were given with a small dataset with images in different conditions.
   - HQ images: 160 images
   - LQ images: 891 images
 
-# Team members and contribution
+## Team members and contribution
 
 Ching-yu Lin / Project management, Data curation/labelling, Model architecture
 
@@ -34,11 +34,11 @@ Jiahao Wang / Image processing and digit cropping for analog and digital images
 
 Akshay Sundar / Digital number images' screen cropping and processing and digit recognition model training
 
-# Duration
+## Duration
 
 This project was conducted between 2019-Sept-18 to 2019-Sept-24.
 
-# Final Result
+## Final Result
 
 We tried two different digit recognition pipelines:
 
