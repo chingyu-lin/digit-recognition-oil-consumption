@@ -1,0 +1,87 @@
+Open source libraries:
+
+High level:
+https://github.com/penny4860/SVHN-deep-digit-detector
+
+Low level:
+https://pypi.org/project/pytesseract/
+https://opencv.org/
+OpenCV tutorial:
+https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_morphological_ops/py_morphological_ops.html
+
+https://www.pyimagesearch.com/2017/02/13/recognizing-digits-with-opencv-and-python/https://spieswl.github.io/projects/2017/magic-eraser-computer-vision
+https://hackernoon.com/building-a-gas-pump-scanner-with-opencv-python-ios-116fe6c9ae8b
+
+Image augmentation with scikit-image: https://medium.com/@thimblot/data-augmentation-boost-your-image-dataset-with-few-lines-of-python-155c2dc1baec
+
+APIs:
+https://cloud.google.com/vision/docs/ocr
+
+What is digital Digits
+https://en.wikipedia.org/wiki/Seven-segment_display
+
+MSER:
+https://www.toptal.com/machine-learning/real-time-object-detection-using-mser-in-ios
+
+Others implementations:
+https://towardsdatascience.com/build-a-multi-digit-detector-with-keras-and-opencv-b97e3cd3b37
+https://www.kaggle.com/c/digit-recognizer
+
+Other source dataset:
+The street view house number dataset
+http://ufldl.stanford.edu/housenumbers/
+
+“Reading gas meter with computer vision” (including labelled digit data)
+https://github.com/ParalelniPolis/ppplyn
+
+“GasPumpOCR”
+https://github.com/kazmiekr/GasPumpOCR
+
+Google search:
+
+“Line edge and contours detection”
+http://robindavid.fr/opencv-tutorial/chapter5-line-edge-and-contours-detection.html
+
+
+https://www.google.com/search?q=digital+digit&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi22O-D_dnkAhXwxoUKHZxvASgQ_AUIEigB&biw=1440&bih=821
+
+https://en.wikipedia.org/wiki/Seven-segment_display
+
+https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/33418.pdf
+
+
+End-to-End:
+
+Four digit SVHN sequence prediction with CNN using Keras with TensorFlow backend https://github.com/beeps82/SVHN_CNN
+
+http://petr-marek.com/blog/2017/07/31/sequence-digits-recognition-localization/
+
+https://www.youtube.com/watch?v=ZDRt21VEOpA
+
+
+Multi-label classification
+
+https://medium.com/@vijayabhaskar96/multi-label-image-classification-tutorial-with-keras-imagedatagenerator-cd541f8eaf24
+
+IoU:
+
+http://ronny.rest/tutorials/module/localization_001/iou/#targetText=Intersect%20over%20Union%20(IoU)%20is,area%20of%20the%20two%20boxes.
+
+https://answers.opencv.org/question/67091/how-to-find-if-2-rectangles-are-overlapping-each-other/?answer=67092
+
+https://stackoverflow.com/questions/30507141/is-there-any-function-in-opencv-to-find-the-intersection-union-and-complements
+
+Fit_generator:
+https://towardsdatascience.com/writing-custom-keras-generators-fe815d992c5a
+
+https://stanford.edu/~shervine/blog/keras-how-to-generate-data-on-the-fly
+
+https://www.pyimagesearch.com/2018/12/24/how-to-use-keras-fit-and-fit_generator-a-hands-on-tutorial/
+
+https://github.com/keras-team/keras/issues/8130
+
+
+
+
+
+

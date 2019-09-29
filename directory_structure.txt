@@ -1,0 +1,36 @@
+-general 
+	-relabel_data
+		-Analog_label.xls
+		-Digital_label.xls
+
+-end2end_method
+	-Image_augmentation
+		-data_agumentation_digital.ipynb
+	-image_creation
+		-fonts
+			-team_bergere.ttf
+		-templates
+			-template1.jpg
+			-template2.jpg
+			-data_generation_digital.ipynb
+-image_cropping_method
+	-cropping_scripts
+		-DigitCrop_Analog.ipynb
+		-DigitCrop_Digital_Preprocessing.ipynb
+		-DigitCrop_Digital.ipynb
+	-digits_creation
+		-digit_augmentation_cropped.ipynb
+		-digit_augmentation_synthetic.ipynb
+		-digit_sythesis.ipynb
+	-evaluation
+		-Testing_Reading_Recognition_Analog.ipynb
+	-training
+		-Training_Digit_Recognition_Analog.ipynb
+
+-final_prediction
+-digital_prediction
+-analog_prediction 
+-Reference
+
+
+
