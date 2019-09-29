@@ -4,7 +4,7 @@ This is the directory of the project - Optimizer - digit recognition.
 
 It is part of the course Eleven consulting supercase - MSc Data Science for Business - HEC Paris and Ecole Polytechnique
 
-Team members / contribution:
+# Team members / contribution:
 
 Ching-yu Lin / Project management, Data curation/labelling, Model architecture
 
@@ -16,7 +16,18 @@ Jiahao Wand / Digit cropping for both analog and digital digits
 
 Akshay Sundar / Digit cropping for digital digits, digit recognition model training
 
+# Duration
+
 This project was conducted between 2019-Sept-18 to 2019-Sept-24.
+
+# Final Result
+
+We tried two different digit recognition pipeline.
+
+1. Cropping method
+2. End-to-end solution
+
+We acheived 64.99% accuracy on digital digit testset and 59.45% on analog testset.
 
 Our team won the first place in the technical aspect.
 
